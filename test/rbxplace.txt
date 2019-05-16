@@ -1,0 +1,1681 @@
+[{
+    'id': '1125510',
+    'name': 'The Void Star',
+    'link': 'https://www.roblox.com/catalog/1125510/The-Void-Star',
+    'rap': '133047',
+    'purchase_id': '5CgwWr',
+    'price': '400.00',
+    'popularity': '1',
+    'type': '8',
+    'shop': 'ArmoredBlackDragon'
+}, {
+    'id': '1365767',
+    'name': 'Valkyrie Helm',
+    'link': 'https://www.roblox.com/catalog/1365767/Valkyrie-Helm',
+    'rap': '58281',
+    'purchase_id': 'EYi6fA',
+    'price': '198.88',
+    'popularity': '190',
+    'type': '8',
+    'shop': 'Country'
+}, {
+    'id': '1365767',
+    'name': 'Valkyrie Helm',
+    'link': 'https://www.roblox.com/catalog/1365767/Valkyrie-Helm',
+    'rap': '58281',
+    'purchase_id': 'iK8dNA',
+    'price': '198.89',
+    'popularity': '190',
+    'type': '8',
+    'shop': 'Dieguito'
+}, {
+    'id': '102605392',
+    'name': 'Agonizingly Red Bucket of Cheer',
+    'link': 'https://www.roblox.com/catalog/102605392/Agonizingly-Red-Bucket-of-Cheer',
+    'rap': '50527',
+    'purchase_id': 'hxHNWD',
+    'price': '160.00',
+    'popularity': '9',
+    'type': '8',
+    'shop': 'Jossreio'
+}, {
+    'id': '1029025',
+    'name': 'The Classic ROBLOX Fedora',
+    'link': 'https://www.roblox.com/catalog/1029025/The-Classic-ROBLOX-Fedora',
+    'rap': '49949',
+    'purchase_id': 'RxmATf',
+    'price': '159.00',
+    'popularity': '128',
+    'type': '8',
+    'shop': 'Ashton9713'
+}, {
+    'id': '2566015124',
+    'name': 'Onyx Immortal Sword',
+    'link': 'https://www.roblox.com/catalog/2566015124/Onyx-Immortal-Sword',
+    'rap': '47035',
+    'purchase_id': 'TMimtQ',
+    'price': '135.00',
+    'popularity': '3',
+    'type': '46',
+    'shop': 'YShop'
+}, {
+    'id': '64560336',
+    'name': "Jack O'Bandit",
+    'link': 'https://www.roblox.com/catalog/64560336/Jack-OBandit',
+    'rap': '36044',
+    'purchase_id': 'Wg14y',
+    'price': '119.99',
+    'popularity': '16',
+    'type': '42',
+    'shop': 'ryutos'
+}, {
+    'id': '64560336',
+    'name': "Jack O'Bandit",
+    'link': 'https://www.roblox.com/catalog/64560336/Jack-OBandit',
+    'rap': '36044',
+    'purchase_id': 'f774y',
+    'price': '135.00',
+    'popularity': '16',
+    'type': '42',
+    'shop': 'kalun'
+}, {
+    'id': '1587175771',
+    'name': 'Overseer Wings of Terror',
+    'link': 'https://www.roblox.com/catalog/1587175771/Overseer-Wings-of-Terror',
+    'rap': '35934',
+    'purchase_id': 'Y1rdCl',
+    'price': '111.00',
+    'popularity': '13',
+    'type': '46',
+    'shop': 'Ashton9713'
+}, {
+    'id': '2222720521',
+    'name': 'Immortal Sword - Wicked Heart',
+    'link': 'https://www.roblox.com/catalog/2222720521/Immortal-Sword-Wicked-Heart',
+    'rap': '35658',
+    'purchase_id': 'E3DF4o',
+    'price': '89.99',
+    'popularity': '60',
+    'type': '46',
+    'shop': 'Icy'
+}, {
+    'id': '25556219',
+    'name': 'Freckled Cheeks',
+    'link': 'https://www.roblox.com/catalog/25556219/Freckled-Cheeks',
+    'rap': '31624',
+    'purchase_id': 'h0MCI',
+    'price': '83.98',
+    'popularity': '6',
+    'type': '18',
+    'shop': 'Zaylina0000'
+}, {
+    'id': '128992838',
+    'name': 'Beast Mode',
+    'link': 'https://www.roblox.com/catalog/128992838/Beast-Mode',
+    'rap': '27351',
+    'purchase_id': 'qRhIuA',
+    'price': '83.99',
+    'popularity': '109',
+    'type': '18',
+    'shop': 'lagtest'
+}, {
+    'id': '128992838',
+    'name': 'Beast Mode',
+    'link': 'https://www.roblox.com/catalog/128992838/Beast-Mode',
+    'rap': '27351',
+    'purchase_id': 'neLIuA',
+    'price': '69.99',
+    'popularity': '109',
+    'type': '18',
+    'shop': 'Icy'
+}, {
+    'id': '128992838',
+    'name': 'Beast Mode',
+    'link': 'https://www.roblox.com/catalog/128992838/Beast-Mode',
+    'rap': '27351',
+    'purchase_id': 'EsRIuA',
+    'price': '83.99',
+    'popularity': '109',
+    'type': '18',
+    'shop': 'lagtest'
+}, {
+    'id': '128992838',
+    'name': 'Beast Mode',
+    'link': 'https://www.roblox.com/catalog/128992838/Beast-Mode',
+    'rap': '27351',
+    'purchase_id': 'yrzIuA',
+    'price': '75.00',
+    'popularity': '109',
+    'type': '18',
+    'shop': 'KidTatted23'
+}, {
+    'id': '21024661',
+    'name': 'Optimist',
+    'link': 'https://www.roblox.com/catalog/21024661/Optimist',
+    'rap': '23929',
+    'purchase_id': 'iFEeg',
+    'price': '52.00',
+    'popularity': '9',
+    'type': '18',
+    'shop': 'MyShopYea'
+}, {
+    'id': '169444294',
+    'name': "Stickmasterluke's Peanut Butter Sparkle Time",
+    'link': 'https://www.roblox.com/catalog/169444294/Stickmasterlukes-Peanut-Butter-Sparkle-Time',
+    'rap': '21566',
+    'purchase_id': 'nHOlaU',
+    'price': '52.00',
+    'popularity': '79',
+    'type': '41',
+    'shop': 'MyShopYea'
+}, {
+    'id': '19264845',
+    'name': 'Bubble Trouble',
+    'link': 'https://www.roblox.com/catalog/19264845/Bubble-Trouble',
+    'rap': '19955',
+    'purchase_id': 'W5rAf',
+    'price': '63.99',
+    'popularity': '19',
+    'type': '18',
+    'shop': 'zivo'
+}, {
+    'id': '19264845',
+    'name': 'Bubble Trouble',
+    'link': 'https://www.roblox.com/catalog/19264845/Bubble-Trouble',
+    'rap': '19955',
+    'purchase_id': 'hu5bf',
+    'price': '64.95',
+    'popularity': '19',
+    'type': '18',
+    'shop': 'OnlineMarket'
+}, {
+    'id': '209995252',
+    'name': 'Blizzard Beast Mode',
+    'link': 'https://www.roblox.com/catalog/209995252/Blizzard-Beast-Mode',
+    'rap': '19624',
+    'purchase_id': 'CtpVRb',
+    'price': '63.98',
+    'popularity': '115',
+    'type': '18',
+    'shop': 'Zaylina0000'
+}, {
+    'id': '209995252',
+    'name': 'Blizzard Beast Mode',
+    'link': 'https://www.roblox.com/catalog/209995252/Blizzard-Beast-Mode',
+    'rap': '19624',
+    'purchase_id': 'QzPVRb',
+    'price': '59.98',
+    'popularity': '115',
+    'type': '18',
+    'shop': 'zivo'
+}, {
+    'id': '209995252',
+    'name': 'Blizzard Beast Mode',
+    'link': 'https://www.roblox.com/catalog/209995252/Blizzard-Beast-Mode',
+    'rap': '19624',
+    'purchase_id': 'l9RVRb',
+    'price': '60.00',
+    'popularity': '115',
+    'type': '18',
+    'shop': 'KidTatted23'
+}, {
+    'id': '119812659',
+    'name': 'Punk Face',
+    'link': 'https://www.roblox.com/catalog/119812659/Punk-Face',
+    'rap': '18791',
+    'purchase_id': 'j5nGRA',
+    'price': '54.95',
+    'popularity': '15',
+    'type': '18',
+    'shop': 'OnlineMarket'
+}, {
+    'id': '387256603',
+    'name': 'Silver Punk Face',
+    'link': 'https://www.roblox.com/catalog/387256603/Silver-Punk-Face',
+    'rap': '18428',
+    'purchase_id': 'rcc3ac',
+    'price': '54.95',
+    'popularity': '27',
+    'type': '18',
+    'shop': 'OnlineMarket'
+}, {
+    'id': '387256603',
+    'name': 'Silver Punk Face',
+    'link': 'https://www.roblox.com/catalog/387256603/Silver-Punk-Face',
+    'rap': '18428',
+    'purchase_id': 'oIV4ac',
+    'price': '54.95',
+    'popularity': '27',
+    'type': '18',
+    'shop': 'OnlineMarket'
+}, {
+    'id': '362051999',
+    'name': 'Purple Bubble Trouble',
+    'link': 'https://www.roblox.com/catalog/362051999/Purple-Bubble-Trouble',
+    'rap': '16062',
+    'purchase_id': 'ElrAUB',
+    'price': '49.94',
+    'popularity': '44',
+    'type': '18',
+    'shop': 'Country'
+}, {
+    'id': '362051999',
+    'name': 'Purple Bubble Trouble',
+    'link': 'https://www.roblox.com/catalog/362051999/Purple-Bubble-Trouble',
+    'rap': '16062',
+    'purchase_id': 'uquAUB',
+    'price': '46.00',
+    'popularity': '44',
+    'type': '18',
+    'shop': 'Kris1334'
+}, {
+    'id': '330296924',
+    'name': 'Blue Bubble Trouble',
+    'link': 'https://www.roblox.com/catalog/330296924/Blue-Bubble-Trouble',
+    'rap': '14863',
+    'purchase_id': 'XOpJnB',
+    'price': '49.95',
+    'popularity': '53',
+    'type': '18',
+    'shop': 'OnlineMarket'
+}, {
+    'id': '494291269',
+    'name': 'Super Super Happy Face',
+    'link': 'https://www.roblox.com/catalog/494291269/Super-Super-Happy-Face',
+    'rap': '13595',
+    'purchase_id': 'N8rs5C',
+    'price': '41.95',
+    'popularity': '416',
+    'type': '18',
+    'shop': 'ChingLingChang'
+}, {
+    'id': '494291269',
+    'name': 'Super Super Happy Face',
+    'link': 'https://www.roblox.com/catalog/494291269/Super-Super-Happy-Face',
+    'rap': '13595',
+    'purchase_id': 'ETcW5C',
+    'price': '44.99',
+    'popularity': '416',
+    'type': '18',
+    'shop': 'zivo'
+}, {
+    'id': '494291269',
+    'name': 'Super Super Happy Face',
+    'link': 'https://www.roblox.com/catalog/494291269/Super-Super-Happy-Face',
+    'rap': '13595',
+    'purchase_id': '28V25C',
+    'price': '45.00',
+    'popularity': '416',
+    'type': '18',
+    'shop': 'IcyVibes'
+}, {
+    'id': '494291269',
+    'name': 'Super Super Happy Face',
+    'link': 'https://www.roblox.com/catalog/494291269/Super-Super-Happy-Face',
+    'rap': '13595',
+    'purchase_id': '37p95C',
+    'price': '48.00',
+    'popularity': '416',
+    'type': '18',
+    'shop': 'Ashton9713'
+}, {
+    'id': '494291269',
+    'name': 'Super Super Happy Face',
+    'link': 'https://www.roblox.com/catalog/494291269/Super-Super-Happy-Face',
+    'rap': '13595',
+    'purchase_id': 'tG5N6C',
+    'price': 14.39,
+    'popularity': '416',
+    'type': '18',
+    'shop': 'MyShopYea'
+}, {
+    'id': '494291269',
+    'name': 'Super Super Happy Face',
+    'link': 'https://www.roblox.com/catalog/494291269/Super-Super-Happy-Face',
+    'rap': '13595',
+    'purchase_id': 'gVBo6C',
+    'price': '45.00',
+    'popularity': '416',
+    'type': '18',
+    'shop': 'IcyVibes'
+}, {
+    'id': '63690289',
+    'name': 'Lord Evil',
+    'link': 'https://www.roblox.com/catalog/63690289/Lord-Evil',
+    'rap': '13189',
+    'purchase_id': 'nAoEBA',
+    'price': '28.00',
+    'popularity': '5',
+    'type': '8',
+    'shop': 'Trapball'
+}, {
+    'id': '220248530',
+    'name': 'Knight of the Violet Abyss',
+    'link': 'https://www.roblox.com/catalog/220248530/Knight-of-the-Violet-Abyss',
+    'rap': '12513',
+    'purchase_id': 'Etkp0b',
+    'price': '29.99',
+    'popularity': '15',
+    'type': '8',
+    'shop': 'ryutos'
+}, {
+    'id': '439945661',
+    'name': 'Silver King of the Night ',
+    'link': 'https://www.roblox.com/catalog/439945661/Silver-King-of-the-Night-',
+    'rap': '12484',
+    'purchase_id': '95u64c',
+    'price': '28.00',
+    'popularity': '155',
+    'type': '8',
+    'shop': 'Ashton9713'
+}, {
+    'id': '439946101',
+    'name': 'Adurite King of the Night ',
+    'link': 'https://www.roblox.com/catalog/439946101/Adurite-King-of-the-Night-',
+    'rap': '10629',
+    'purchase_id': 'SXb84c',
+    'price': '29.99',
+    'popularity': '35',
+    'type': '8',
+    'shop': 'ryutos'
+}, {
+    'id': '439946101',
+    'name': 'Adurite King of the Night ',
+    'link': 'https://www.roblox.com/catalog/439946101/Adurite-King-of-the-Night-',
+    'rap': '10629',
+    'purchase_id': 'UGB84c',
+    'price': '27.99',
+    'popularity': '35',
+    'type': '8',
+    'shop': 'Icy'
+}, {
+    'id': '10072631',
+    'name': 'The Earth',
+    'link': 'https://www.roblox.com/catalog/10072631/The-Earth',
+    'rap': '10604',
+    'purchase_id': 'HK4Hb',
+    'price': 20.08,
+    'popularity': '1',
+    'type': '8',
+    'shop': 'Lagstep'
+}, {
+    'id': '2225761296',
+    'name': 'Radioactive Beast Mode',
+    'link': 'https://www.roblox.com/catalog/2225761296/Radioactive-Beast-Mode',
+    'rap': '9455',
+    'purchase_id': '5dpk4o',
+    'price': '24.99',
+    'popularity': '173',
+    'type': '18',
+    'shop': 'Icy'
+}, {
+    'id': '2225761296',
+    'name': 'Radioactive Beast Mode',
+    'link': 'https://www.roblox.com/catalog/2225761296/Radioactive-Beast-Mode',
+    'rap': '9455',
+    'purchase_id': 'rjPk4o',
+    'price': '27.99',
+    'popularity': '173',
+    'type': '18',
+    'shop': 'Jamesthefag'
+}, {
+    'id': '121260153',
+    'name': 'Red, White, and Shaggy',
+    'link': 'https://www.roblox.com/catalog/121260153/Red-White-and-Shaggy',
+    'rap': '7707',
+    'purchase_id': 'Su4grA',
+    'price': 36.24,
+    'popularity': '3',
+    'type': '41',
+    'shop': 'Prox'
+}, {
+    'id': '31313130',
+    'name': 'Sniper Relay Helmet',
+    'link': 'https://www.roblox.com/catalog/31313130/Sniper-Relay-Helmet',
+    'rap': '7332',
+    'purchase_id': 'jsjll',
+    'price': 34.5,
+    'popularity': '3',
+    'type': '8',
+    'shop': 'Prox'
+}, {
+    'id': '1609401184',
+    'name': 'Supa Dupa Fly Cap',
+    'link': 'https://www.roblox.com/catalog/1609401184/Supa-Dupa-Fly-Cap',
+    'rap': '5729',
+    'purchase_id': 'P5h7Jl',
+    'price': '40.00',
+    'popularity': '208',
+    'type': '8',
+    'shop': 'SkarL'
+}, {
+    'id': '2409285794',
+    'name': 'Playful Vampire',
+    'link': 'https://www.roblox.com/catalog/2409285794/Playful-Vampire',
+    'rap': '5561',
+    'purchase_id': 'rCF0Op',
+    'price': '20.00',
+    'popularity': '277',
+    'type': '18',
+    'shop': 'TOWER'
+}, {
+    'id': '2409285794',
+    'name': 'Playful Vampire',
+    'link': 'https://www.roblox.com/catalog/2409285794/Playful-Vampire',
+    'rap': '5561',
+    'purchase_id': 'guW2Op',
+    'price': '29.99',
+    'popularity': '277',
+    'type': '18',
+    'shop': 'Yukimera'
+}, {
+    'id': '162066057',
+    'name': 'Adurite Antlers',
+    'link': 'https://www.roblox.com/catalog/162066057/Adurite-Antlers',
+    'rap': '4563',
+    'purchase_id': 'U2IpMb',
+    'price': '10.00',
+    'popularity': '193',
+    'type': '8',
+    'shop': 'TOWER'
+}, {
+    'id': '162066057',
+    'name': 'Adurite Antlers',
+    'link': 'https://www.roblox.com/catalog/162066057/Adurite-Antlers',
+    'rap': '4563',
+    'purchase_id': 'zIfJlB',
+    'price': '28.99',
+    'popularity': '193',
+    'type': '8',
+    'shop': 'Yukimera'
+}, {
+    'id': '162066057',
+    'name': 'Adurite Antlers',
+    'link': 'https://www.roblox.com/catalog/162066057/Adurite-Antlers',
+    'rap': '4563',
+    'purchase_id': 'OLsWyo',
+    'price': '19.00',
+    'popularity': '193',
+    'type': '8',
+    'shop': 'Ashton9713'
+}, {
+    'id': '162066057',
+    'name': 'Adurite Antlers',
+    'link': 'https://www.roblox.com/catalog/162066057/Adurite-Antlers',
+    'rap': '4563',
+    'purchase_id': '3nFXDU',
+    'price': '11.00',
+    'popularity': '193',
+    'type': '8',
+    'shop': 'Jossreio'
+}, {
+    'id': '34871016',
+    'name': 'Dark Magic Tophat',
+    'link': 'https://www.roblox.com/catalog/34871016/Dark-Magic-Tophat',
+    'rap': '4484',
+    'purchase_id': 'aDRjM',
+    'price': 8.2,
+    'popularity': 0,
+    'type': '8',
+    'shop': 'NF'
+}, {
+    'id': '628771505',
+    'name': 'Black Iron Horns',
+    'link': 'https://www.roblox.com/catalog/628771505/Black-Iron-Horns',
+    'rap': '4378',
+    'purchase_id': 'fQeVfF',
+    'price': '16.00',
+    'popularity': '75',
+    'type': '8',
+    'shop': 'Ashton9713'
+}, {
+    'id': '628771505',
+    'name': 'Black Iron Horns',
+    'link': 'https://www.roblox.com/catalog/628771505/Black-Iron-Horns',
+    'rap': '4378',
+    'purchase_id': 'niXALg',
+    'price': '11.99',
+    'popularity': '75',
+    'type': '8',
+    'shop': 'Dark'
+}, {
+    'id': '564449640',
+    'name': ' Beautiful Hair for Beautiful Space People',
+    'link': 'https://www.roblox.com/catalog/564449640/-Beautiful-Hair-for-Beautiful-Space-People',
+    'rap': '4174',
+    'purchase_id': '96xDlD',
+    'price': '19.00',
+    'popularity': '218',
+    'type': '41',
+    'shop': 'Ashton9713'
+}, {
+    'id': '564449640',
+    'name': ' Beautiful Hair for Beautiful Space People',
+    'link': 'https://www.roblox.com/catalog/564449640/-Beautiful-Hair-for-Beautiful-Space-People',
+    'rap': '4174',
+    'purchase_id': 'UJgXDU',
+    'price': '10.00',
+    'popularity': '218',
+    'type': '41',
+    'shop': 'Jossreio'
+}, {
+    'id': '878895806',
+    'name': 'Gold Emperor of the Night',
+    'link': 'https://www.roblox.com/catalog/878895806/Gold-Emperor-of-the-Night',
+    'rap': '3664',
+    'purchase_id': 'RuE99g',
+    'price': '14.99',
+    'popularity': '34',
+    'type': '8',
+    'shop': 'blunga'
+}, {
+    'id': '136803077',
+    'name': 'Brilliant Bombastique',
+    'link': 'https://www.roblox.com/catalog/136803077/Brilliant-Bombastique',
+    'rap': '3660',
+    'purchase_id': 'H2SnxA',
+    'price': '10.00',
+    'popularity': '30',
+    'type': '41',
+    'shop': 'TOWER'
+}, {
+    'id': '136803077',
+    'name': 'Brilliant Bombastique',
+    'link': 'https://www.roblox.com/catalog/136803077/Brilliant-Bombastique',
+    'rap': '3660',
+    'purchase_id': 'ZLCCmb',
+    'price': '10.00',
+    'popularity': '30',
+    'type': '41',
+    'shop': 'TOWER'
+}, {
+    'id': '136803077',
+    'name': 'Brilliant Bombastique',
+    'link': 'https://www.roblox.com/catalog/136803077/Brilliant-Bombastique',
+    'rap': '3660',
+    'purchase_id': '50CCmb',
+    'price': '10.00',
+    'popularity': '30',
+    'type': '41',
+    'shop': 'TOWER'
+}, {
+    'id': '136803077',
+    'name': 'Brilliant Bombastique',
+    'link': 'https://www.roblox.com/catalog/136803077/Brilliant-Bombastique',
+    'rap': '3660',
+    'purchase_id': 'Nk9p0b',
+    'price': '10.00',
+    'popularity': '30',
+    'type': '41',
+    'shop': 'TOWER'
+}, {
+    'id': '1081239',
+    'name': 'Bucket',
+    'link': 'https://www.roblox.com/catalog/1081239/Bucket',
+    'rap': '3396',
+    'purchase_id': 'SslN2',
+    'price': '15.99',
+    'popularity': '52',
+    'type': '8',
+    'shop': 'zivo'
+}, {
+    'id': '1081239',
+    'name': 'Bucket',
+    'link': 'https://www.roblox.com/catalog/1081239/Bucket',
+    'rap': '3396',
+    'purchase_id': 'DWadTd',
+    'price': '16.00',
+    'popularity': '52',
+    'type': '8',
+    'shop': 'Ashton9713'
+}, {
+    'id': '362081769',
+    'name': 'Virtual Commando',
+    'link': 'https://www.roblox.com/catalog/362081769/Virtual-Commando',
+    'rap': '3154',
+    'purchase_id': 'ZWsuUB',
+    'price': '7.99',
+    'popularity': '43',
+    'type': '42',
+    'shop': 'MyShopYea'
+}, {
+    'id': '1213472762',
+    'name': 'Catching Snowflakes',
+    'link': 'https://www.roblox.com/catalog/1213472762/Catching-Snowflakes',
+    'rap': '3021',
+    'purchase_id': 'GCKzWI',
+    'price': '8.99',
+    'popularity': '157',
+    'type': '18',
+    'shop': 'Icy'
+}, {
+    'id': '362051405',
+    'name': 'True Love Smile',
+    'link': 'https://www.roblox.com/catalog/362051405/True-Love-Smile',
+    'rap': '2841',
+    'purchase_id': '5BkvUB',
+    'price': 9.14,
+    'popularity': '7',
+    'type': '18',
+    'shop': 'SkarL'
+}, {
+    'id': '95245137',
+    'name': 'Pumpkin Headrow',
+    'link': 'https://www.roblox.com/catalog/95245137/Pumpkin-Headrow',
+    'rap': '2781',
+    'purchase_id': 'cw1qgA',
+    'price': 13.27,
+    'popularity': '1',
+    'type': '44',
+    'shop': 'Prox'
+}, {
+    'id': '483899424',
+    'name': 'Cursed Korblox Pendant ',
+    'link': 'https://www.roblox.com/catalog/483899424/Cursed-Korblox-Pendant-',
+    'rap': '2669',
+    'purchase_id': '5xiFwC',
+    'price': 12.75,
+    'popularity': '2',
+    'type': '43',
+    'shop': 'Prox'
+}, {
+    'id': '86494914',
+    'name': 'Dual Katanas of the DarkAge Clan',
+    'link': 'https://www.roblox.com/catalog/86494914/Dual-Katanas-of-the-DarkAge-Clan',
+    'rap': '2559',
+    'purchase_id': '6ZXqCA',
+    'price': '8.50',
+    'popularity': 0,
+    'type': '19',
+    'shop': 'Slice'
+}, {
+    'id': '271015669',
+    'name': 'Bucket of the Sea',
+    'link': 'https://www.roblox.com/catalog/271015669/Bucket-of-the-Sea',
+    'rap': '2453',
+    'purchase_id': 'p5yNJB',
+    'price': '4.50',
+    'popularity': '24',
+    'type': '8',
+    'shop': 'MyShopYea'
+}, {
+    'id': '880499904',
+    'name': 'The Blade of the Federation',
+    'link': 'https://www.roblox.com/catalog/880499904/The-Blade-of-the-Federation',
+    'rap': '2429',
+    'purchase_id': 'izdvaG',
+    'price': 5.59,
+    'popularity': '12',
+    'type': '19',
+    'shop': 'Jat'
+}, {
+    'id': '880499904',
+    'name': 'The Blade of the Federation',
+    'link': 'https://www.roblox.com/catalog/880499904/The-Blade-of-the-Federation',
+    'rap': '2429',
+    'purchase_id': 'ORmvaG',
+    'price': 5.59,
+    'popularity': '12',
+    'type': '19',
+    'shop': 'Jat'
+}, {
+    'id': '116043052',
+    'name': 'Rosey Smile ',
+    'link': 'https://www.roblox.com/catalog/116043052/Rosey-Smile-',
+    'rap': '2235',
+    'purchase_id': 'zuAPME',
+    'price': '4.20',
+    'popularity': '15',
+    'type': '18',
+    'shop': 'lukeyred'
+}, {
+    'id': '112609138',
+    'name': "Rock 'n Shades",
+    'link': 'https://www.roblox.com/catalog/112609138/Rock-n-Shades',
+    'rap': '2198',
+    'purchase_id': 'ZPY7oA',
+    'price': 10.55,
+    'popularity': 0,
+    'type': '8',
+    'shop': 'Prox'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'wr8fjb',
+    'price': '9.89',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'Dieguito'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'gggq8b',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'TcY7dB',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'rp9WjB',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'eQLwkB',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': '9eSd0B',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'oten4B',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': '4ZD0mc',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'tETsXc',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'tkX50c',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'Tw3zdC',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'pWRWgC',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'TzXiVC',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'jL5cFd',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'EO5Hhd',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'kDOqnd',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'zW7bNd',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'MS47Rd',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'wGZItd',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': 'U4bFvd',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '71484026',
+    'name': 'Sinister Branches',
+    'link': 'https://www.roblox.com/catalog/71484026/Sinister-Branches',
+    'rap': '2117',
+    'purchase_id': '3qD15k',
+    'price': '7.99',
+    'popularity': '251',
+    'type': '8',
+    'shop': 'dylans'
+}, {
+    'id': '181354245',
+    'name': 'Skull of Robloxians Past',
+    'link': 'https://www.roblox.com/catalog/181354245/Skull-of-Robloxians-Past',
+    'rap': '2082',
+    'purchase_id': 'XyZaIb',
+    'price': '4.00',
+    'popularity': '13',
+    'type': '8',
+    'shop': 'lukeyred'
+}, {
+    'id': '554658475',
+    'name': 'Madbot 10000',
+    'link': 'https://www.roblox.com/catalog/554658475/Madbot-10000',
+    'rap': '2007',
+    'purchase_id': 'TbOxgD',
+    'price': '4.00',
+    'popularity': '1',
+    'type': '18',
+    'shop': 'lukeyred'
+}, {
+    'id': '1191136166',
+    'name': 'Golden Bling Braces',
+    'link': 'https://www.roblox.com/catalog/1191136166/Golden-Bling-Braces',
+    'rap': '1961',
+    'purchase_id': 'kHtvrI',
+    'price': 7.42,
+    'popularity': '15',
+    'type': '18',
+    'shop': 'ChristoGR'
+}, {
+    'id': '67996263',
+    'name': 'Deluxe Ninja Swordpack',
+    'link': 'https://www.roblox.com/catalog/67996263/Deluxe-Ninja-Swordpack',
+    'rap': '1952',
+    'purchase_id': 'TBJ2aA',
+    'price': 6.37,
+    'popularity': '9',
+    'type': '46',
+    'shop': 'SkarL'
+}, {
+    'id': '67996263',
+    'name': 'Deluxe Ninja Swordpack',
+    'link': 'https://www.roblox.com/catalog/67996263/Deluxe-Ninja-Swordpack',
+    'rap': '1952',
+    'purchase_id': 'OH90dA',
+    'price': 6.37,
+    'popularity': '9',
+    'type': '46',
+    'shop': 'SkarL'
+}, {
+    'id': '277861858',
+    'name': '1337 Gaming Headset',
+    'link': 'https://www.roblox.com/catalog/277861858/1337-Gaming-Headset',
+    'rap': '1940',
+    'purchase_id': 'hZG7AB',
+    'price': '3.70',
+    'popularity': '1',
+    'type': '8',
+    'shop': 'lukeyred'
+}, {
+    'id': '183834442',
+    'name': 'Lava Monster',
+    'link': 'https://www.roblox.com/catalog/183834442/Lava-Monster',
+    'rap': '1885',
+    'purchase_id': 'Y0nGJb',
+    'price': 9.1,
+    'popularity': '2',
+    'type': '8',
+    'shop': 'Prox'
+}, {
+    'id': '100425864',
+    'name': 'Deluxe Game Headset',
+    'link': 'https://www.roblox.com/catalog/100425864/Deluxe-Game-Headset',
+    'rap': '1860',
+    'purchase_id': 'orSqqb',
+    'price': 6.09,
+    'popularity': '18',
+    'type': '8',
+    'shop': 'SkarL'
+}, {
+    'id': '402304145',
+    'name': 'Friendly Trusting Smile',
+    'link': 'https://www.roblox.com/catalog/402304145/Friendly-Trusting-Smile',
+    'rap': '1853',
+    'purchase_id': 'TTDkhc',
+    'price': '3.50',
+    'popularity': '2',
+    'type': '18',
+    'shop': 'lukeyred'
+}, {
+    'id': '102618797',
+    'name': "DJ Remix's Goldphones",
+    'link': 'https://www.roblox.com/catalog/102618797/DJ-Remixs-Goldphones',
+    'rap': '1789',
+    'purchase_id': '9wOhAg',
+    'price': '6.00',
+    'popularity': 0,
+    'type': '8',
+    'shop': 'Slice'
+}, {
+    'id': '225921650',
+    'name': 'Orbital Flute Strike',
+    'link': 'https://www.roblox.com/catalog/225921650/Orbital-Flute-Strike',
+    'rap': '1783',
+    'purchase_id': '0jt6Ub',
+    'price': 3.17,
+    'popularity': 0,
+    'type': '19',
+    'shop': 'pd'
+}, {
+    'id': '52491335',
+    'name': 'Desert Special Ops',
+    'link': 'https://www.roblox.com/catalog/52491335/Desert-Special-Ops',
+    'rap': '1662',
+    'purchase_id': 'PtFot',
+    'price': 8.06,
+    'popularity': '1',
+    'type': '8',
+    'shop': 'Prox'
+}, {
+    'id': '583722710',
+    'name': 'Purple Wistful Wink',
+    'link': 'https://www.roblox.com/catalog/583722710/Purple-Wistful-Wink',
+    'rap': '1642',
+    'purchase_id': 'LLYT4D',
+    'price': '3.50',
+    'popularity': '18',
+    'type': '18',
+    'shop': 'Jossreio'
+}, {
+    'id': '13334984',
+    'name': 'Summertime 2009 R&R&R',
+    'link': 'https://www.roblox.com/catalog/13334984/Summertime-2009-RRR',
+    'rap': '1540',
+    'purchase_id': 'k4eMc',
+    'price': 3.18,
+    'popularity': '2',
+    'type': '8',
+    'shop': 'Lagstep'
+}, {
+    'id': '583721561',
+    'name': 'Blue Wistful Wink',
+    'link': 'https://www.roblox.com/catalog/583721561/Blue-Wistful-Wink',
+    'rap': '1453',
+    'purchase_id': 'cWYr2D',
+    'price': '3.50',
+    'popularity': '21',
+    'type': '18',
+    'shop': 'Jossreio'
+}, {
+    'id': '583721561',
+    'name': 'Blue Wistful Wink',
+    'link': 'https://www.roblox.com/catalog/583721561/Blue-Wistful-Wink',
+    'rap': '1453',
+    'purchase_id': 'GJT22D',
+    'price': '3.20',
+    'popularity': '21',
+    'type': '18',
+    'shop': 'lukeyred'
+}, {
+    'id': '583721561',
+    'name': 'Blue Wistful Wink',
+    'link': 'https://www.roblox.com/catalog/583721561/Blue-Wistful-Wink',
+    'rap': '1453',
+    'purchase_id': 'cNP25D',
+    'price': '3.50',
+    'popularity': '21',
+    'type': '18',
+    'shop': 'Jossreio'
+}, {
+    'id': '583722932',
+    'name': 'Green Wistful Wink',
+    'link': 'https://www.roblox.com/catalog/583722932/Green-Wistful-Wink',
+    'rap': '1428',
+    'purchase_id': 'fDSr4D',
+    'price': '3.50',
+    'popularity': '17',
+    'type': '18',
+    'shop': 'Jossreio'
+}, {
+    'id': '69344020',
+    'name': 'Fashionable Contraption',
+    'link': 'https://www.roblox.com/catalog/69344020/Fashionable-Contraption',
+    'rap': '1364',
+    'purchase_id': '11ES1',
+    'price': 3.27,
+    'popularity': 0,
+    'type': '8',
+    'shop': 'Jat'
+}, {
+    'id': '445117183',
+    'name': 'Red White and Starface',
+    'link': 'https://www.roblox.com/catalog/445117183/Red-White-and-Starface',
+    'rap': '1212',
+    'purchase_id': 'jqLXAC',
+    'price': 2.94,
+    'popularity': '3',
+    'type': '18',
+    'shop': 'Jat'
+}, {
+    'id': '113325603',
+    'name': 'Recycled Cardboard Shades',
+    'link': 'https://www.roblox.com/catalog/113325603/Recycled-Cardboard-Shades',
+    'rap': '1186',
+    'purchase_id': 'DliaoA',
+    'price': 2.89,
+    'popularity': '6',
+    'type': '42',
+    'shop': 'Jat'
+}, {
+    'id': '114549522',
+    'name': 'Captain Bluesteel',
+    'link': 'https://www.roblox.com/catalog/114549522/Captain-Bluesteel',
+    'rap': '1119',
+    'purchase_id': 'kvpxoA',
+    'price': 2.62,
+    'popularity': '3',
+    'type': '8',
+    'shop': 'BestLims'
+}, {
+    'id': '68259924',
+    'name': 'Winter Bowler',
+    'link': 'https://www.roblox.com/catalog/68259924/Winter-Bowler',
+    'rap': '1107',
+    'purchase_id': 'wqzq0',
+    'price': 2.71,
+    'popularity': 0,
+    'type': '8',
+    'shop': 'Jat'
+}, {
+    'id': '553720598',
+    'name': 'Overseer Guardia',
+    'link': 'https://www.roblox.com/catalog/553720598/Overseer-Guardia',
+    'rap': '1100',
+    'purchase_id': 'uiTVeD',
+    'price': 2.36,
+    'popularity': '3',
+    'type': '8',
+    'shop': 'cait'
+}, {
+    'id': '553720598',
+    'name': 'Overseer Guardia',
+    'link': 'https://www.roblox.com/catalog/553720598/Overseer-Guardia',
+    'rap': '1100',
+    'purchase_id': 'yL9weD',
+    'price': 2.36,
+    'popularity': '3',
+    'type': '8',
+    'shop': 'cait'
+}, {
+    'id': '583159170',
+    'name': 'Orbital Violin: Deep Freeze',
+    'link': 'https://www.roblox.com/catalog/583159170/Orbital-Violin-Deep-Freeze',
+    'rap': '1074',
+    'purchase_id': 'ajm42D',
+    'price': 2.03,
+    'popularity': 0,
+    'type': '19',
+    'shop': 'pd'
+}, {
+    'id': '11999235',
+    'name': 'Spec Alpha Biograft Energy Sword',
+    'link': 'https://www.roblox.com/catalog/11999235/Spec-Alpha-Biograft-Energy-Sword',
+    'rap': '1022',
+    'purchase_id': 'YT92b',
+    'price': '2.00',
+    'popularity': '4',
+    'type': '19',
+    'shop': 'blunga'
+}, {
+    'id': '321570512',
+    'name': 'Chill Cap',
+    'link': 'https://www.roblox.com/catalog/321570512/Chill-Cap',
+    'rap': '1020',
+    'purchase_id': '1J1LKB',
+    'price': 2.52,
+    'popularity': '63',
+    'type': '8',
+    'shop': 'Jat'
+}, {
+    'id': '321570512',
+    'name': 'Chill Cap',
+    'link': 'https://www.roblox.com/catalog/321570512/Chill-Cap',
+    'rap': '1020',
+    'purchase_id': 'aaB9rD',
+    'price': '3.00',
+    'popularity': '63',
+    'type': '8',
+    'shop': 'kalun'
+}, {
+    'id': '321570512',
+    'name': 'Chill Cap',
+    'link': 'https://www.roblox.com/catalog/321570512/Chill-Cap',
+    'rap': '1020',
+    'purchase_id': '9hlg7D',
+    'price': 2.74,
+    'popularity': '63',
+    'type': '8',
+    'shop': 'pd2'
+}, {
+    'id': '321570512',
+    'name': 'Chill Cap',
+    'link': 'https://www.roblox.com/catalog/321570512/Chill-Cap',
+    'rap': '1020',
+    'purchase_id': 'qjXMBe',
+    'price': 2.52,
+    'popularity': '63',
+    'type': '8',
+    'shop': 'Jat'
+}, {
+    'id': '321570512',
+    'name': 'Chill Cap',
+    'link': 'https://www.roblox.com/catalog/321570512/Chill-Cap',
+    'rap': '1020',
+    'purchase_id': 'L3BnXE',
+    'price': '4.99',
+    'popularity': '63',
+    'type': '8',
+    'shop': 'Jamesthefag'
+}, {
+    'id': '152980639',
+    'name': 'Egg of Verticality',
+    'link': 'https://www.roblox.com/catalog/152980639/Egg-of-Verticality',
+    'rap': '957',
+    'purchase_id': 'HJJY6A',
+    'price': 2.29,
+    'popularity': 0,
+    'type': '8',
+    'shop': 'BestLims'
+}, {
+    'id': '928908332',
+    'name': 'Black Iron Commando',
+    'link': 'https://www.roblox.com/catalog/928908332/Black-Iron-Commando',
+    'rap': '954',
+    'purchase_id': 'FW8Rmh',
+    'price': 3.27,
+    'popularity': '98',
+    'type': '8',
+    'shop': 'SkarL'
+}, {
+    'id': '1309918',
+    'name': 'Blue Winter Cap',
+    'link': 'https://www.roblox.com/catalog/1309918/Blue-Winter-Cap',
+    'rap': '885',
+    'purchase_id': '6qwnls',
+    'price': 2.14,
+    'popularity': '5',
+    'type': '8',
+    'shop': 'Icy'
+}, {
+    'id': '29715001',
+    'name': 'Gentleman Patriot',
+    'link': 'https://www.roblox.com/catalog/29715001/Gentleman-Patriot',
+    'rap': '840',
+    'purchase_id': 'pvIEK',
+    'price': 4.22,
+    'popularity': 0,
+    'type': '41',
+    'shop': 'Prox'
+}, {
+    'id': '2222775067',
+    'name': 'Blue Starry Sight',
+    'link': 'https://www.roblox.com/catalog/2222775067/Blue-Starry-Sight',
+    'rap': '829',
+    'purchase_id': 'rOme6o',
+    'price': 2.88,
+    'popularity': '5',
+    'type': '18',
+    'shop': 'SkarL'
+}, {
+    'id': '15857936',
+    'name': 'Tee Vee',
+    'link': 'https://www.roblox.com/catalog/15857936/Tee-Vee',
+    'rap': '819',
+    'purchase_id': 'qDpkjt',
+    'price': 2.09,
+    'popularity': '9',
+    'type': '8',
+    'shop': 'Jat'
+}, {
+    'id': '1016184756',
+    'name': 'Crimson Evil Eye',
+    'link': 'https://www.roblox.com/catalog/1016184756/Crimson-Evil-Eye',
+    'rap': '793',
+    'purchase_id': 'blLqiH',
+    'price': 4,
+    'popularity': '1',
+    'type': '18',
+    'shop': 'Prox'
+}, {
+    'id': '1191125008',
+    'name': 'Red Goof ',
+    'link': 'https://www.roblox.com/catalog/1191125008/Red-Goof-',
+    'rap': '771',
+    'purchase_id': 'aKWXqI',
+    'price': 3.1,
+    'popularity': '14',
+    'type': '18',
+    'shop': 'ChristoGR'
+}, {
+    'id': '1191125008',
+    'name': 'Red Goof ',
+    'link': 'https://www.roblox.com/catalog/1191125008/Red-Goof-',
+    'rap': '771',
+    'purchase_id': 'fSf8qI',
+    'price': 3.1,
+    'popularity': '14',
+    'type': '18',
+    'shop': 'ChristoGR'
+}, {
+    'id': '1191125008',
+    'name': 'Red Goof ',
+    'link': 'https://www.roblox.com/catalog/1191125008/Red-Goof-',
+    'rap': '771',
+    'purchase_id': 'wgH8qI',
+    'price': 3.1,
+    'popularity': '14',
+    'type': '18',
+    'shop': 'ChristoGR'
+}, {
+    'id': '1191125008',
+    'name': 'Red Goof ',
+    'link': 'https://www.roblox.com/catalog/1191125008/Red-Goof-',
+    'rap': '771',
+    'purchase_id': 'TfZaQI',
+    'price': 3.1,
+    'popularity': '14',
+    'type': '18',
+    'shop': 'ChristoGR'
+}, {
+    'id': '33337041',
+    'name': 'Tasteless Baseball Cap',
+    'link': 'https://www.roblox.com/catalog/33337041/Tasteless-Baseball-Cap',
+    'rap': '739',
+    'purchase_id': 'nPkPm',
+    'price': 1.68,
+    'popularity': '1',
+    'type': '8',
+    'shop': 'cait'
+}, {
+    'id': '33337041',
+    'name': 'Tasteless Baseball Cap',
+    'link': 'https://www.roblox.com/catalog/33337041/Tasteless-Baseball-Cap',
+    'rap': '739',
+    'purchase_id': 'RxpPm',
+    'price': 1.68,
+    'popularity': '1',
+    'type': '8',
+    'shop': 'cait'
+}, {
+    'id': '1016185809',
+    'name': 'Golden Evil Eye',
+    'link': 'https://www.roblox.com/catalog/1016185809/Golden-Evil-Eye',
+    'rap': '731',
+    'purchase_id': '7RIgIH',
+    'price': 1.9,
+    'popularity': '2',
+    'type': '18',
+    'shop': 'Jat'
+}, {
+    'id': '1016185809',
+    'name': 'Golden Evil Eye',
+    'link': 'https://www.roblox.com/catalog/1016185809/Golden-Evil-Eye',
+    'rap': '731',
+    'purchase_id': 'cCjgIH',
+    'price': 1.9,
+    'popularity': '2',
+    'type': '18',
+    'shop': 'Jat'
+}, {
+    'id': '1016185809',
+    'name': 'Golden Evil Eye',
+    'link': 'https://www.roblox.com/catalog/1016185809/Golden-Evil-Eye',
+    'rap': '731',
+    'purchase_id': 'LlKgIH',
+    'price': 1.9,
+    'popularity': '2',
+    'type': '18',
+    'shop': 'Jat'
+}, {
+    'id': '1016185809',
+    'name': 'Golden Evil Eye',
+    'link': 'https://www.roblox.com/catalog/1016185809/Golden-Evil-Eye',
+    'rap': '731',
+    'purchase_id': 'YwKgIH',
+    'price': 1.9,
+    'popularity': '2',
+    'type': '18',
+    'shop': 'Jat'
+}, {
+    'id': '1016185809',
+    'name': 'Golden Evil Eye',
+    'link': 'https://www.roblox.com/catalog/1016185809/Golden-Evil-Eye',
+    'rap': '731',
+    'purchase_id': 'x4rgIH',
+    'price': 1.9,
+    'popularity': '2',
+    'type': '18',
+    'shop': 'Jat'
+}, {
+    'id': '1016185809',
+    'name': 'Golden Evil Eye',
+    'link': 'https://www.roblox.com/catalog/1016185809/Golden-Evil-Eye',
+    'rap': '731',
+    'purchase_id': 'rdRgIH',
+    'price': 1.9,
+    'popularity': '2',
+    'type': '18',
+    'shop': 'Jat'
+}, {
+    'id': '1016185809',
+    'name': 'Golden Evil Eye',
+    'link': 'https://www.roblox.com/catalog/1016185809/Golden-Evil-Eye',
+    'rap': '731',
+    'purchase_id': '7GRgIH',
+    'price': 1.9,
+    'popularity': '2',
+    'type': '18',
+    'shop': 'Jat'
+}, {
+    'id': '1191162013',
+    'name': 'Blue Goof',
+    'link': 'https://www.roblox.com/catalog/1191162013/Blue-Goof',
+    'rap': '731',
+    'purchase_id': 'set5rI',
+    'price': 2.96,
+    'popularity': '3',
+    'type': '18',
+    'shop': 'ChristoGR'
+}, {
+    'id': '1191162013',
+    'name': 'Blue Goof',
+    'link': 'https://www.roblox.com/catalog/1191162013/Blue-Goof',
+    'rap': '731',
+    'purchase_id': 'lbw5rI',
+    'price': 2.96,
+    'popularity': '3',
+    'type': '18',
+    'shop': 'ChristoGR'
+}, {
+    'id': '1191162013',
+    'name': 'Blue Goof',
+    'link': 'https://www.roblox.com/catalog/1191162013/Blue-Goof',
+    'rap': '731',
+    'purchase_id': 'Bi05rI',
+    'price': 2.96,
+    'popularity': '3',
+    'type': '18',
+    'shop': 'ChristoGR'
+}, {
+    'id': '1191162013',
+    'name': 'Blue Goof',
+    'link': 'https://www.roblox.com/catalog/1191162013/Blue-Goof',
+    'rap': '731',
+    'purchase_id': '1g15rI',
+    'price': 2.96,
+    'popularity': '3',
+    'type': '18',
+    'shop': 'ChristoGR'
+}, {
+    'id': '1191162013',
+    'name': 'Blue Goof',
+    'link': 'https://www.roblox.com/catalog/1191162013/Blue-Goof',
+    'rap': '731',
+    'purchase_id': 'IG85rI',
+    'price': 2.96,
+    'popularity': '3',
+    'type': '18',
+    'shop': 'ChristoGR'
+}, {
+    'id': '1191162013',
+    'name': 'Blue Goof',
+    'link': 'https://www.roblox.com/catalog/1191162013/Blue-Goof',
+    'rap': '731',
+    'purchase_id': 'ccC6rI',
+    'price': 2.96,
+    'popularity': '3',
+    'type': '18',
+    'shop': 'ChristoGR'
+}, {
+    'id': '150337838',
+    'name': 'Spring Bow Tie',
+    'link': 'https://www.roblox.com/catalog/150337838/Spring-Bow-Tie',
+    'rap': '724',
+    'purchase_id': 'lMqD4A',
+    'price': 1.88,
+    'popularity': 0,
+    'type': '43',
+    'shop': 'Jat'
+}, {
+    'id': '151787490',
+    'name': 'Brilliant Samurai',
+    'link': 'https://www.roblox.com/catalog/151787490/Brilliant-Samurai',
+    'rap': '713',
+    'purchase_id': 'pvaW7A',
+    'price': 1.86,
+    'popularity': 0,
+    'type': '8',
+    'shop': 'Jat'
+}, {
+    'id': '536826524',
+    'name': 'Loch Ness Monster Cap',
+    'link': 'https://www.roblox.com/catalog/536826524/Loch-Ness-Monster-Cap',
+    'rap': '711',
+    'purchase_id': 'ki9OYd',
+    'price': 3.62,
+    'popularity': 0,
+    'type': '8',
+    'shop': 'Prox'
+}, {
+    'id': '2222774106',
+    'name': 'Green Starry Sight',
+    'link': 'https://www.roblox.com/catalog/2222774106/Green-Starry-Sight',
+    'rap': '701',
+    'purchase_id': 'ogBa5o',
+    'price': 1.83,
+    'popularity': '6',
+    'type': '18',
+    'shop': 'Jat'
+}, {
+    'id': '2222774106',
+    'name': 'Green Starry Sight',
+    'link': 'https://www.roblox.com/catalog/2222774106/Green-Starry-Sight',
+    'rap': '701',
+    'purchase_id': 'BjDc5o',
+    'price': 2.85,
+    'popularity': '6',
+    'type': '18',
+    'shop': 'ChristoGR'
+}, {
+    'id': '2222774106',
+    'name': 'Green Starry Sight',
+    'link': 'https://www.roblox.com/catalog/2222774106/Green-Starry-Sight',
+    'rap': '701',
+    'purchase_id': 'tZql5o',
+    'price': 2.48,
+    'popularity': '6',
+    'type': '18',
+    'shop': 'SkarL'
+}, {
+    'id': '2222774106',
+    'name': 'Green Starry Sight',
+    'link': 'https://www.roblox.com/catalog/2222774106/Green-Starry-Sight',
+    'rap': '701',
+    'purchase_id': 'i8zl5o',
+    'price': 2.48,
+    'popularity': '6',
+    'type': '18',
+    'shop': 'SkarL'
+}, {
+    'id': '2222774106',
+    'name': 'Green Starry Sight',
+    'link': 'https://www.roblox.com/catalog/2222774106/Green-Starry-Sight',
+    'rap': '701',
+    'purchase_id': 'VfVm5o',
+    'price': 2.85,
+    'popularity': '6',
+    'type': '18',
+    'shop': 'ChristoGR'
+}, {
+    'id': '1744198126',
+    'name': 'Casual Sunglasses Pocket',
+    'link': 'https://www.roblox.com/catalog/1744198126/Casual-Sunglasses-Pocket',
+    'rap': '667',
+    'purchase_id': 'bUzyYm',
+    'price': 1.38,
+    'popularity': '1',
+    'type': '45',
+    'shop': 'pd'
+}, {
+    'id': '136172656',
+    'name': 'Angry Pilgrim',
+    'link': 'https://www.roblox.com/catalog/136172656/Angry-Pilgrim',
+    'rap': '666',
+    'purchase_id': 'IrbXWA',
+    'price': 3.41,
+    'popularity': 0,
+    'type': '8',
+    'shop': 'Prox'
+}, {
+    'id': '140469731',
+    'name': 'Festive Narwhal',
+    'link': 'https://www.roblox.com/catalog/140469731/Festive-Narwhal',
+    'rap': '652',
+    'purchase_id': 'gA0PYA',
+    'price': 2.33,
+    'popularity': '7',
+    'type': '46',
+    'shop': 'SkarL'
+}, {
+    'id': '628769409',
+    'name': 'Adurite Bowler',
+    'link': 'https://www.roblox.com/catalog/628769409/Adurite-Bowler',
+    'rap': '646',
+    'purchase_id': 'bOa5JH',
+    'price': 2.31,
+    'popularity': '3',
+    'type': '8',
+    'shop': 'RayRayRose'
+}, {
+    'id': '1191162539',
+    'name': 'Green Goof ',
+    'link': 'https://www.roblox.com/catalog/1191162539/Green-Goof-',
+    'rap': '624',
+    'purchase_id': 'HoLMSI',
+    'price': 1.66,
+    'popularity': '4',
+    'type': '18',
+    'shop': 'Jat'
+}, {
+    'id': '1191162539',
+    'name': 'Green Goof ',
+    'link': 'https://www.roblox.com/catalog/1191162539/Green-Goof-',
+    'rap': '624',
+    'purchase_id': 'fcMHtI',
+    'price': 1.47,
+    'popularity': '4',
+    'type': '18',
+    'shop': 'cait'
+}, {
+    'id': '11297746',
+    'name': 'White Ninja Headband of the Unimpeachable Soul',
+    'link': 'https://www.roblox.com/catalog/11297746/White-Ninja-Headband-of-the-Unimpeachable-Soul',
+    'rap': '604',
+    'purchase_id': 'm7pzIA',
+    'price': 1.62,
+    'popularity': '11',
+    'type': '8',
+    'shop': 'Jat'
+}]
